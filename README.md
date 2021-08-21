@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Hengky Kurniawan
+- 👀 I’m interested in Software Engineering and Actuarial Science
